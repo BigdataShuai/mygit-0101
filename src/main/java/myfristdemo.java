@@ -3,5 +3,6 @@ public class myfristdemo {
         System.out.println("hello first");
         System.out.println("hello second");
         System.out.println("hello third");
+        System.out.println("hello four");
     }
 }
